@@ -1,2 +1,2 @@
 # atipe-docs
-All the documentation of ATIPE project
+Tous les documents du projet ATIPE
